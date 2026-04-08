@@ -1,24 +1,18 @@
 # 📊 Business Data Analytics Project
 
-## 🚀 Project Overview
-This project analyses retail e-commerce data to understand customer behaviour, revenue trends, and regional performance.
+## 🚀 Overview
+This project analyzes retail e-commerce data to uncover insights into customer behavior, revenue trends, and regional performance.
 
-## 🧠 Key Business Questions
-- Which regions generate the most revenue?
-- Who are the top customers?
-- How does revenue change over time?
-- What are the overall business KPIs?
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - Python (Pandas, NumPy)
 - SQL (MySQL)
 - Power BI
 - GitHub
 
 ## 🔄 Workflow
-1. Data cleaning and transformation using Python
-2. Data storage and querying using SQL
-3. Data visualisation and dashboard creation using Power BI
+1. Data Cleaning using Python
+2. Data Storage & Querying using SQL
+3. Data Visualisation using Power BI
 
 ## 📊 Dashboard Features
 - Total Orders KPI
@@ -26,10 +20,10 @@ This project analyses retail e-commerce data to understand customer behaviour, r
 - Monthly Revenue Trend
 - Revenue by State (Top 10)
 - Top 10 Customers by Revenue
-- Interactive filters (Year, Region)
+- Interactive filters (Year)
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+(Add screenshot here)
 
 ## 📂 Project Structure
 - data/
@@ -38,9 +32,9 @@ This project analyses retail e-commerce data to understand customer behaviour, r
 - dashboard/
 
 ## 🎯 Key Insights
-- Certain states contribute significantly more to revenue
-- Revenue shows clear monthly fluctuations
-- A small number of customers contribute a large share of revenue
+- Revenue is concentrated in a few key states
+- Top customers contribute significantly to revenue
+- Sales show monthly fluctuations (seasonality)
 
 ## 👨‍💻 Author
-Konda Thanmai
+Thanmai Konda
