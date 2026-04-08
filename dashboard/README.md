@@ -1,1 +1,2 @@
-Power BI dashboard file.
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
